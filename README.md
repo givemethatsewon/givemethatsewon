@@ -2,7 +2,7 @@
 
 **Backend-focused software engineer building AI products, data pipelines, and production systems.**
 
-Software engineering student at Chung-Ang University, based in Seoul.
+CS student at Chung-Ang University, based in Seoul.
 
 I work across the path from raw data to production: ingestion and normalization, APIs, async processing, model integration, deployment, observability, and debugging. I care about the part after a demo works—making the system reliable enough to run.
 
