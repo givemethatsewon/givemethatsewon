@@ -1,6 +1,6 @@
 ## Sewon Min
 
-**Backend-focused software engineer building AI products, data pipelines, and production systems.**
+**Backend-focused software engineer and product builder working across AI, data, and production systems.**
 
 CS student at Chung-Ang University, graduating in August 2027.
 
@@ -8,11 +8,11 @@ I work across the path from raw data to production: ingestion and normalization,
 
 ### Selected products
 
-| Product | Engineering focus |
-| --- | --- |
-| [ThatzFit · B2B](https://thatzfit.me/) | AI virtual fitting for fashion e-commerce. Product data, image-generation workflows, integrations, and production operations. |
-| [ThatzFit · B2C](https://curation.thatzfit.me/) | Personalized outfits on a user-created avatar. Recommendations, scheduled generation, analytics, and reliability. |
-| [Porta](https://porta.page/) | Turns a Korean store listing into a searchable English page. Ingestion, generation, localization, publishing, analytics, and deployment. |
+| Product | Role | Engineering focus |
+| --- | --- | --- |
+| [ThatzFit · B2B](https://thatzfit.me/) | Founder & Lead Engineer | AI virtual fitting for fashion e-commerce. Product data, image-generation workflows, integrations, and production operations. |
+| [ThatzFit · B2C](https://curation.thatzfit.me/) | Founder & Lead Engineer | Personalized outfits on a user-created avatar. Recommendations, scheduled generation, analytics, and reliability. |
+| [Porta](https://porta.page/) | Founder & Lead Engineer | Turns a Korean store listing into a searchable English page. Ingestion, generation, localization, publishing, analytics, and deployment. |
 
 ### Experience
 
