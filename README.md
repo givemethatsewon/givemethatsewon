@@ -18,10 +18,6 @@ I like taking products past the prototype: collecting and cleaning data, designi
 - [mdview](https://github.com/givemethatsewon/mdview) — A small Go CLI that renders Markdown in iTerm2, including local images inline where they appear in the document.
 - [TryOnU-BE](https://github.com/TryOnU-A-Virtual-Fitting-Service/TryOnU-BE) — A Java/Spring Boot backend for a virtual fitting service.
 
-### Notes
-
-I write at [sewon.dev](https://sewon.dev) about building and running products: debugging, backend systems, data quality, and the decisions that survive first contact with production.
-
 ### Tools
 
 Go, Java, Python · Spring Boot, FastAPI · PostgreSQL · Docker, GitHub Actions
