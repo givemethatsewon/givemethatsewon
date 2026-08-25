@@ -2,35 +2,30 @@
 
 Backend-oriented software engineering student at Chung-Ang University.
 
-I build backend systems from messy inputs to production behavior: data
-collection, preprocessing, API design, async processing, service integration,
-deployment, and validation.
+I like taking products past the prototype: collecting and cleaning data, designing APIs, shipping services, and finding out what actually happens in production. These days I work mostly on fashion tech, recommendation systems, and small developer tools.
 
-### Current Focus
+### Products
 
-- Recommendation infrastructure and backend systems
-- Product workflows that need reliable data and runtime boundaries
-- Production debugging, quality gates, and deployment verification
-- Virtual try-on, image-processing, and data pipelines
+| Product | What it is |
+| --- | --- |
+| [ThatzFit · B2B](https://thatzfit.me/) | An AI virtual fitting plugin for fashion e-commerce product pages. |
+| [ThatzFit · B2C](https://curation.thatzfit.me/) | Personal outfits on your own avatar, with real products behind each look. |
+| [Porta](https://porta.page/) | Turns a store's existing listing into an English page that foreign customers can find on Google. |
+| [Love & Fury](https://lovefury.inc/) | A virtual fitting room for online fashion shopping. |
 
-### Selected Work
+### Open source
 
-| Area | Work | Notes |
-| --- | --- | --- |
-| Product infrastructure | [Place2Page](https://place2page.com) | Map/place URL to generated business landing pages. Focused on backend generation flow, runtime configuration, quality validation, and deployment verification. |
-| Engineering writing | [sewon.dev](https://sewon.dev) | Project notes on production debugging, runtime boundaries, data quality, and system reliability. |
-| Virtual fitting | [Love & fury](https://lovefury.inc) / [ThatzFit](https://thatz.fit) | Backend workflow experience around fashion product data, image preprocessing, and virtual try-on systems. |
-| Spring backend | [TryOnU-BE](https://github.com/TryOnU-A-Virtual-Fitting-Service/TryOnU-BE) | Java/Spring Boot backend for a virtual fitting service. |
+- [mdview](https://github.com/givemethatsewon/mdview) — A small Go CLI that renders Markdown in iTerm2, including local images inline where they appear in the document.
+- [TryOnU-BE](https://github.com/TryOnU-A-Virtual-Fitting-Service/TryOnU-BE) — A Java/Spring Boot backend for a virtual fitting service.
 
-### Tech I Use
+### Notes
 
-- Backend: Java, Spring Boot, Python, FastAPI, REST APIs, Server-Sent Events
-- Data: PostgreSQL, crawling, normalization, full-sync and incremental-sync flows
-- ML/Evaluation: model evaluation, image preprocessing, retrieval evaluation, LLM-as-a-Judge checks
-- Infra: Docker, GitHub Actions, CI/CD, logging, production smoke tests
+I write at [sewon.dev](https://sewon.dev) about building and running products: debugging, backend systems, data quality, and the decisions that survive first contact with production.
 
-### Links
+### Tools
 
-- Portfolio: [sewon.dev](https://sewon.dev)
-- LinkedIn: [linkedin.com/in/givemethatsewon](https://www.linkedin.com/in/givemethatsewon/)
-- Email: [nvpz1598@gmail.com](mailto:nvpz1598@gmail.com)
+Go, Java, Python · Spring Boot, FastAPI · PostgreSQL · Docker, GitHub Actions
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/givemethatsewon/) · [Email](mailto:nvpz1598@gmail.com)
