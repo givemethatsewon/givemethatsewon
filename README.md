@@ -10,9 +10,9 @@ I work across the path from raw data to production: ingestion and normalization,
 
 | Product | Role | Engineering focus |
 | --- | --- | --- |
-| [ThatzFit · B2B](https://thatzfit.me/) | Founder & Lead Engineer | AI virtual fitting for fashion e-commerce. Product data, image-generation workflows, integrations, and production operations. |
-| [ThatzFit · B2C](https://curation.thatzfit.me/) | Founder & Lead Engineer | Personalized outfits on a user-created avatar. Recommendations, scheduled generation, analytics, and reliability. |
-| [Porta](https://porta.page/) | Founder & Lead Engineer | Turns a Korean store listing into a searchable English page. Ingestion, generation, localization, publishing, analytics, and deployment. |
+| [ThatzFit · B2B](https://thatzfit.me/) | Founder & Engineer | AI virtual fitting for fashion e-commerce. Product data, image-generation workflows, integrations, and production operations. |
+| [ThatzFit · B2C](https://curation.thatzfit.me/) | Founder & Engineer | Personalized outfits on a user-created avatar. Recommendations, scheduled generation, analytics, and reliability. |
+| [Porta](https://porta.page/) | Founder & Engineer | Turns a Korean store listing into a searchable English page. Ingestion, generation, localization, publishing, analytics, and deployment. |
 
 ### Experience
 
