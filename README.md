@@ -13,7 +13,13 @@ I work across the path from raw data to production: ingestion and normalization,
 | [ThatzFit · B2B](https://thatzfit.me/) | AI virtual fitting for fashion e-commerce. Product data, image-generation workflows, integrations, and production operations. |
 | [ThatzFit · B2C](https://curation.thatzfit.me/) | Personalized outfits on a user-created avatar. Recommendations, scheduled generation, analytics, and reliability. |
 | [Porta](https://porta.page/) | Turns a Korean store listing into a searchable English page. Ingestion, generation, localization, publishing, analytics, and deployment. |
-| [Love & Fury](https://lovefury.inc/) | A virtual fitting room for online fashion shopping, built around fashion data and image-processing workflows. |
+
+### Experience
+
+**Backend Engineering Intern · [Love & Fury](https://lovefury.inc/)**  
+Sep 2025 – Dec 2025
+
+Worked on fashion data and image-processing workflows for an online virtual fitting room.
 
 ### Open source
 
